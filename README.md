@@ -12,7 +12,7 @@
 ## Social-media
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-asem/)
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/Visualization-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
 
 
-## ✍️ About Me
+## About Me
 - 🎓 Strong foundation in **Computer Science**  
 - ⚡ Experienced in building **real-time and batch data pipelines**  
 - 🛠 Skilled with **Python, SQL, Spark, and Kafka**  
