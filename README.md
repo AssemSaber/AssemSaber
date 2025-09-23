@@ -7,7 +7,7 @@
 
 - I’m an aspiring Data Engineer with a solid background in Computer Science and a strong interest in turning raw data into meaningful insights. I enjoy building data pipelines and working with tools like Python, SQL, Apache Spark, and Kafka to create real-time and batch processing solutions.
 
-- I also have experience with Docker for containerization, making it easier to design and deploy scalable data systems. My focus is on writing clean, efficient code and applying best practices in data engineering to ensure data reliability and accuracy. [![LinkedIn][3.2]][3] 
+- I also have experience with Docker for containerization, making it easier to design and deploy scalable data systems. My focus is on writing clean, efficient code and applying best practices in data engineering to ensure data reliability and accuracy. 
 
 ## Social-media
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-asem/)
