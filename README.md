@@ -9,6 +9,9 @@
 
 - I also have experience with Docker for containerization, making it easier to design and deploy scalable data systems. My focus is on writing clean, efficient code and applying best practices in data engineering to ensure data reliability and accuracy. [![LinkedIn][3.2]][3] 
 
+## Social-media
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-asem/)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
