@@ -8,20 +8,56 @@
 - I’m an aspiring Data Engineer with a solid background in Computer Science and a strong interest in turning raw data into meaningful insights. I enjoy building data pipelines and working with tools like Python, SQL, Apache Spark, and Kafka to create real-time and batch processing solutions.
 
 - I also have experience with Docker for containerization, making it easier to design and deploy scalable data systems. My focus is on writing clean, efficient code and applying best practices in data engineering to ensure data reliability and accuracy. 
-
-## Social-media
+## Contact
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:MohamedAssemSaber@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-asem/)
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/BigData-Apache_Spark-informational?style=flat&logo=apachespark&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Streaming-Apache_Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Workflow-Apache_Airflow-informational?style=flat&logo=apacheairflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Visualization-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
+  <!-- ======================= Big Data & Distributed Systems ======================= -->
+  ### Big Data & Distributed Systems
+  ![](https://img.shields.io/badge/BigData-Hadoop-orange?style=flat&logo=apachehadoop&logoColor=white)
+  ![](https://img.shields.io/badge/BigData-Hive-yellow?style=flat&logo=apachehive&logoColor=white)
+  ![](https://img.shields.io/badge/BigData-Apache_Spark-red?style=flat&logo=apachespark&logoColor=white)
+  ![](https://img.shields.io/badge/Streaming-Apache_Kafka-purple?style=flat&logo=apachekafka&logoColor=white)
+  ![](https://img.shields.io/badge/ETL-Apache_NiFi-lightblue?style=flat&logo=apache-nifi&logoColor=white)
+  
+  <!-- ======================= Cloud Data Warehousing ======================= -->
+  ### Cloud Data Warehousing
+  ![](https://img.shields.io/badge/DataWarehouse-Snowflake-skyblue?style=flat&logo=snowflake&logoColor=white)
+  ![](https://img.shields.io/badge/ELT-DBT-pink?style=flat&logo=dbt&logoColor=white)
+  
+  <!-- ======================= Workflow Orchestration ======================= -->
+  ### Workflow Orchestration
+  ![](https://img.shields.io/badge/Workflow-Apache_Airflow-lightorange?style=flat&logo=apacheairflow&logoColor=white)
+  
+  <!-- ======================= Databases ======================= -->
+  ### Databases
+  ![](https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
+  ![](https://img.shields.io/badge/Database-MongoDB-brightgreen?style=flat&logo=mongodb&logoColor=white)
+  ![](https://img.shields.io/badge/Database-SQL_Server-darkblue?style=flat&logo=microsoftsqlserver&logoColor=white)
+  ![](https://img.shields.io/badge/Database-Oracle-red?style=flat&logo=oracle&logoColor=white)
+  
+  <!-- ======================= Programming & Query Languages ======================= -->
+  ### Programming & Query Languages
+  ![](https://img.shields.io/badge/Code-Python-yellow?style=flat&logo=python&logoColor=white)
+  ![](https://img.shields.io/badge/Code-SQL-blue?style=flat&logo=postgresql&logoColor=white)
+  
+  <!-- ======================= Tools & Environment ======================= -->
+  ### Tools & Environment
+  ![](https://img.shields.io/badge/OS-Linux-black?style=flat&logo=linux&logoColor=white)
+  ![](https://img.shields.io/badge/Tools-Docker-blue?style=flat&logo=docker&logoColor=white)
+  
+  <!-- ======================= Version Control ======================= -->
+  ### Version Control
+  ![](https://img.shields.io/badge/Version-Git-orange?style=flat&logo=git&logoColor=white)
+  ![](https://img.shields.io/badge/Version-GitHub-black?style=flat&logo=github&logoColor=white)
+  
+  <!-- ======================= Visualization ======================= -->
+  ### Visualization
+  ![](https://img.shields.io/badge/Visualization-PowerBI-yellow?style=flat&logo=powerbi&logoColor=white)
+
+
+
 
 
 ## About Me
