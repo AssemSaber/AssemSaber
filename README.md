@@ -22,9 +22,14 @@
   ![](https://img.shields.io/badge/ETL-Apache_NiFi-lightblue?style=flat&logo=apache-nifi&logoColor=white)
   
   <!-- ======================= Cloud Data Warehousing ======================= -->
-  ### Cloud Data Warehousing
-  ![](https://img.shields.io/badge/DataWarehouse-Snowflake-skyblue?style=flat&logo=snowflake&logoColor=white)
-  ![](https://img.shields.io/badge/ELT-DBT-pink?style=flat&logo=dbt&logoColor=white)
+### Cloud Platforms
+![](https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/Azure-Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/Azure-Databricks-EF3E42?style=flat&logo=databricks&logoColor=white)
+![](https://img.shields.io/badge/Azure-ADLS%20Gen2-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/Azure-Key%20Vault-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/Azure-Cosmos%20DB-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/DataWarehouse-Snowflake-skyblue?style=flat&logo=snowflake&logoColor=white)
   
   <!-- ======================= Workflow Orchestration ======================= -->
   ### Workflow Orchestration
