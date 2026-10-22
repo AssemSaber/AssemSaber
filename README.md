@@ -5,9 +5,19 @@
 
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-- I’m an aspiring Data Engineer with a solid background in Computer Science and a strong interest in turning raw data into meaningful insights. I enjoy building data pipelines and working with tools like Python, SQL, Apache Spark, and Kafka to create real-time and batch processing solutions.
+**Data Engineer** with experience in ETL/ELT and real-time pipelines using Python, PySpark, SQL, Kafka, and Azure. Processed ~1M events/minute and improved Spark performance by 64%.
+### ⚡ Impact at a glance
 
-- I also have experience with Docker for containerization, making it easier to design and deploy scalable data systems. My focus is on writing clean, efficient code and applying best practices in data engineering to ensure data reliability and accuracy. 
+| What I did | Result |
+|---|---|
+| Spark optimization (Real Estate Analytics Platform) | **25 → 9 min** (64% faster) |
+| SQL Server transformation on 100K rows (Atos) | **1 min → 6 sec** (~90% faster) |
+| Real-time CDC pipeline (Debezium + Kafka + PySpark) | **~1M events/min** |
+| Real-time NLP alerts (Spark ML + Telegram) | Urgent team notified in **under 30 sec** |
+| OLAP data warehouse (Samsung Innovation Campus) | **4 source systems** unified: CRM, Finance, HR, ERP |
+| Reusable Python data quality package | **8 tables** validated with automated quarantine |
+| Data sources integrated (SSIS crime pipeline) | **3 heterogeneous sources**, SCD Type 2 |
+
 ## Contact
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:MohamedAssemSaber@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-asem/)
@@ -60,17 +70,6 @@
   <!-- ======================= Visualization ======================= -->
   ### Visualization
   ![](https://img.shields.io/badge/Visualization-PowerBI-yellow?style=flat&logo=powerbi&logoColor=white)
-
-
-
-
-
-## About Me
-- 🎓 Strong foundation in **Computer Science**  
-- ⚡ Experienced in building **real-time and batch data pipelines**  
-- 🛠 Skilled with **Python, SQL, Spark, and Kafka**  
-- 📦 Comfortable with **Docker** for containerized deployments  
-- 🚀 Passionate about **data accuracy, scalability, and automation**  
 
 
 
